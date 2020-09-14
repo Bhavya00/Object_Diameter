@@ -5,7 +5,9 @@ This is a one of the various applications of the image processing i.e measuring 
 
 ##### 2.Segmentation of Image(Removing Noise)
 This is done in further two steps :
-Color Thresholding
+
+1.Color Thresholding
+
 2.Complete segmentation and Cleanup
 
 ##### 3.Measuring Image
