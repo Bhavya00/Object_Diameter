@@ -10,5 +10,5 @@ This is done in further two steps :
 
 2.Complete segmentation and Cleanup
 
-##### 3.Measuring Image
+##### 3.Measuring Object's Diameter both manually and autoamtically.
 
