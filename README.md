@@ -3,7 +3,7 @@ This is a one of the various applications of the image processing i.e measuring 
 ### Steps to be followed are:
 ##### 1.Importing image using *imread* function.
 
-<img src="images/ball1.jpg">
+<img src="images/ball1.jpg" width=70px;height=70px>
 
 ##### 2.Segmentation of Image(Removing Noise)
 This is done in further two steps :
